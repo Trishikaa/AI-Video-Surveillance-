@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: Comic;
+}
+
+#start,#number_of_objects,#start
+{
+    font-size: 18px;
+    font-family: Comic;
+}
+
+canvas{
+    border:2px inset white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px grey;
+    line-height:2;
+    text-align: center;
+
+}
